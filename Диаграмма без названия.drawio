@@ -1,11 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T06:47:09.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="TG0iwDKohzgIWlIA2AmW" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T08:11:31.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="wx_iobNv9cKT3oOR3DdR" type="github">
   <diagram id="xCOMObn4eYwuAkrah_2O" name="Страница 1">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HUonTSdFcn5cOkxZLUTq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-2" value="&lt;h1&gt;Full Webflow&lt;/h1&gt;&lt;p&gt;Design + development + integration + support&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-7" value="Ported" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HUonTSdFcn5cOkxZLUTq-5" target="HUonTSdFcn5cOkxZLUTq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-10" value="&lt;h1&gt;Webflow port&lt;/h1&gt;&lt;p&gt;Design + development + extended cms features + integration + support&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-21" value="&lt;h1&gt;React &amp;amp; Wordpress&lt;/h1&gt;&lt;p&gt;Design + development + cms api + integration + support + frontend extensibility&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="258" y="120" width="156" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-1" value="Webflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-22">
+          <mxGeometry x="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-3" value="Frontend+Backend+Hosting&lt;br&gt;All in One Solution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-22">
+          <mxGeometry y="70" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="276" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-5" value="Webflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-23">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-8" value="Frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-23">
+          <mxGeometry x="30" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-4" value="Wordpress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-24">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-9" value="Backend+Hosting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-24">
+          <mxGeometry x="30" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="440" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-16" value="Wordpress&lt;br&gt;(REST API)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-25">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-20" value="Backend+Hosting*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-25">
+          <mxGeometry x="30" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="276" y="440" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-18" value="React App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-26">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-19" value="Frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HUonTSdFcn5cOkxZLUTq-26">
+          <mxGeometry x="30" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUonTSdFcn5cOkxZLUTq-27" value="data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HUonTSdFcn5cOkxZLUTq-16" target="HUonTSdFcn5cOkxZLUTq-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
